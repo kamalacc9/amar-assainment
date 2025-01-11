@@ -1,0 +1,39 @@
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.banner{
+    display: flex;
+     justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    margin:  150px;
+    background-color: #C6E4D6;
+    border-radius: 15px;
+}
+.banner-title{
+    font-size: 24;
+    font-weight: medium;
+    color: rgb(178, 159, 157);
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.banner-content{
+     margin-right: 100px;
+     padding: 50px;
+}
+.banner-heading{
+    font-size: 56;
+    font-weight: bold;
+}
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 18px;
+    background-color: #006A50;
+    border-radius: 7px;
+    padding: 17px 34px;
+    border: none;
+}
