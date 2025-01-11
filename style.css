@@ -146,6 +146,7 @@
     border-radius: 10px;
     margin-top: 50px;
     margin-left: 50px;
+
 }
 .recent-news{
     font-size: 40px;
@@ -167,3 +168,45 @@
     margin-bottom: 20px;
     hover
 }
+ .div{
+    display: flex: 
+    margin: 120px
+    padding:80px;
+ }
+ .set-2{
+    margin-left:  950px;
+ }
+ .Donate{
+    text-align: center;
+ }
+ .parents{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+ }
+ .child1{
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 7px;
+ }
+ .child3{
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 7px;
+ }
+ .child4{
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 7px;
+ }
+ .child2{
+    padding: 20px;
+    background-color: #C6E4D6;
+    border-radius: 7px;
+ }
+  .chk{
+    margin: 50px;background-color: #FFFFFF; padding: 20;
+    border: none;
+  }
