@@ -52,7 +52,8 @@
 }
 .box-father{
     display: flex;
-    justify-content: center;
+     justify-content: center;
+     align-items: center;
     gap: 50px;
      padding: 40px;
      
@@ -61,16 +62,19 @@
      background-color: #829bc6;
      border-radius: 7px;
      border: none;
+     padding: 40px;
 }
 .box2{
     background-color: #C6E4D6;
     border-radius: 7px;
      border: none;
+     padding: 40px;
 }
 .box3{
     background-color: #F7EBCF;
     border-radius: 7px;
      border: none;
+     padding: 40px;
 }
 .btn-primary-1{
     color: #FFFFFF;
@@ -110,6 +114,7 @@
     font-size: 16px;
     background-image: url(./assets/quote-bg.png);
     background-repeat: no-repeat;
+    margin: 40px;
     
     
 }
@@ -126,4 +131,39 @@
     border-radius: 10px;
     margin: 40px;
     padding: 40px;
+}
+.akash{
+    display: flex;
+    margin: 40px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.batas{
+    margin: 80px;
+    margin-top: 50px;
+}
+.set{
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.recent-news{
+    font-size: 40px;
+    font-weight: bold;
+}
+.news-titie{
+    font-size: 32px;
+    font-weight: bold;
+}
+.news-button1{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 18px;
+    background-color: #006A50;
+    border-radius: 7px;
+    padding: 9px 20px;
+    border: none;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    hover
 }
